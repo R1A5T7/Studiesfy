@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Project4</string>
+    <string name="easyMode">Easy</string>
+    <string name="mediumMode">Medium</string>
+    <string name="hardMode">Hard</string>
+    <string name="studyMode">Study</string>
+    <string name="practiceMode">Practice</string>
+    <string name="play">Play</string>
+    <string name="stop">Stop</string>
+
+    <string name="easyModeDescription">The Easy mode is tailored for beginners, offering a practice session lasting approximately 15-20 minutes.</string>
+    <string name="mediumModeDescription">The Medium mode is designed for practice sessions lasting around 10-15 minutes, providing a moderate level of challenge.</string>
+    <string name="hardModeDescription">For those seeking a more intense practice session, the Hard mode is crafted for sessions ranging from 2 to 10 minutes, providing a challenging experience.</string>
+
+    <string name="studyModeDescription">
+The Easy mode is tailored for beginners, offering a practice session lasting approximately 15-20 minutes.
+
+The Medium mode is designed for practice sessions lasting around 10-15 minutes, providing a moderate level of challenge.
+
+For those seeking a more intense practice session, the Hard mode is crafted for sessions ranging from 2 to 10 minutes, providing a challenging experience.
+
+Study mode is curated for extended study sessions, featuring a playlist spanning approximately 2 hours. Please be patient while it loads, and enjoy your focused study session!</string>
+    <string name="title_activity_intro">IntroActivity</string>
+    <string name="getStartedButton">Get Started</string>
+    <string name="textview">The concept behind the app originated from my intention to develop a tool for my academic courses, particularly those demanding intensive studies such as mathematics, physics, and other sciences. I firmly believe that incorporating melodies, specifically classical songs in my case, can elevate the overall study experience and facilitate stronger connections to learned topics. While I envision the potential for monetization in the future, I recognize that there is a considerable journey ahead to refine and perfect the design before taking that step. \t\n\nRaad Al Tayi</string>
+
+
+</resources>

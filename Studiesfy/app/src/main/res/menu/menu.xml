@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/practiceMode"
+        android:title="@string/practiceMode">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/easyMode"
+                    android:title="@string/easyMode"
+                    />
+                <item
+                    android:id="@+id/mediumMode"
+                    android:title="@string/mediumMode" />
+                <item
+                    android:id="@+id/hardMode"
+                    android:title="@string/hardMode" />
+            </group>
+        </menu>
+    </item>
+
+    <item
+        android:id="@+id/studyMode"
+        android:title="@string/studyMode"
+        />
+
+
+
+
+</menu>
